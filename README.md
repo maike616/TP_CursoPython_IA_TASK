@@ -66,9 +66,6 @@ URL do site: [Variação do PIB - IBGE](https://www.ibge.gov.br/indicadores#vari
 ### Contribuição
 Para contribuir com este projeto, faça um fork do repositório, crie um branch para sua feature ou correção, e envie um pull request com suas alterações.
 
-### Contato
-Em caso de dúvidas ou sugestões, entre em contato com o professor Francisco Januário através do e-mail januario@super.ufam.edu.br.
-
 ---
 
 Equipe 4: [Marcos Augusto e Aline]
