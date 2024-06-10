@@ -72,5 +72,5 @@ Para contribuir com este projeto, faça um fork do repositório, crie um branch 
 
 ---
 
-Equipe 4: [Marcos Augusto e Aline]
+Equipe 4: [Marcos Augusto e Aline Lima]
 
