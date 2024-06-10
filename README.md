@@ -32,8 +32,7 @@ URL do site: [Variação do PIB - IBGE](https://www.ibge.gov.br/indicadores#vari
 - `data_visualization.py`: Script responsável pela leitura dos dados do banco de dados, geração dos DataFrames e exibição dos dados em uma interface gráfica.
 - `README.md`: Este arquivo de descrição do repositório.
 - `requirements.txt`: Lista de bibliotecas necessárias para executar os scripts.
-- `tabelas_ibge.db`: Arquivo de banco de dados SQLite contendo os dados extraídos.
-
+- 
 ### Como Executar
 
 1. **Configuração do Ambiente**
