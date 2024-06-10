@@ -61,6 +61,9 @@ URL do site: [Variação do PIB - IBGE](https://www.ibge.gov.br/indicadores#vari
 
 ![image](https://github.com/maike616/TP_CursoPython_IA_TASK/assets/32426980/f83d9c26-afb0-496e-9c36-16741d6d6843)
 
+![image](https://github.com/maike616/TP_CursoPython_IA_TASK/assets/32426980/a03593a6-be2e-4afd-9603-e0fa990155b3)
+
+
 ### Links Úteis
 - [Como plotar um gráfico no Tkinter](https://www.pythontutorial.net/tkinter/tkinter-matplotlib/)
 - [Criar tabela usando o Tkinter](https://www.geeksforgeeks.org/create-table-using-tkinter/)
