@@ -9,13 +9,13 @@
 ### Descrição do Projeto
 Este repositório contém o projeto final da Equipe 4 para a disciplina de Programação com Python, oferecida pela Universidade Federal do Amazonas (UFAM) no Projeto SUPER. O objetivo do projeto é implementar um programa que lê dados diretamente de um site da Web, organiza esses dados em um DataFrame e armazena em um banco de dados SQLite. Em seguida, outro programa é implementado para ler os dados do banco de dados, gerar um DataFrame e mostrar os dados em uma interface gráfica de usuário (GUI) usando Tkinter, exibindo tabelas e gráficos.
 
-### Equipe 4: Variação do PIB (IBGE)
-URL do site: [Variação do PIB - IBGE](https://www.ibge.gov.br/indicadores#variacao-do-pib)
+### Equipe 4: Painel de indicadores de variação do PIB
+URL do site: [Painel de indicadores da variação do PIB - IBGE](https://www.ibge.gov.br/indicadores#variacao-do-pib)
 
 ### Funcionalidades do Projeto
 
 1. **Coleta de Dados**
-   - Leitura dos dados diretamente da página do IBGE sobre a variação do PIB.
+   - Leitura dos dados diretamente da página do IBGE sobre os indicadores.
    - Organização dos dados em um DataFrame utilizando a biblioteca pandas.
    - Armazenamento dos dados em um banco de dados SQLite.
 
@@ -32,7 +32,7 @@ URL do site: [Variação do PIB - IBGE](https://www.ibge.gov.br/indicadores#vari
 - `data_visualization.py`: Script responsável pela leitura dos dados do banco de dados, geração dos DataFrames e exibição dos dados em uma interface gráfica.
 - `README.md`: Este arquivo de descrição do repositório.
 - `requirements.txt`: Lista de bibliotecas necessárias para executar os scripts.
-- 
+  
 ### Como Executar
 
 1. **Configuração do Ambiente**
