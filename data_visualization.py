@@ -141,7 +141,6 @@ class VisualizadorDataFrame(tk.Tk):
 
 
 if __name__ == "__main__":
-    # Nome do banco de dados SQLite
     nome_banco_dados = 'tabelas_ibge.db'
     carregador = CarregadorSQLite(nome_banco_dados)
     dataframes = carregador.carregar_tabelas()
