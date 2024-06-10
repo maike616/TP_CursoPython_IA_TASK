@@ -68,7 +68,6 @@ class ProcessadorDeTabelasIBGE:
         self.processar_tabelas()
         self.salvar_tabelas_no_sqlite()
 
-# Uso da classe
 # URL da página do IBGE de onde os dados são obtidos
 url = 'https://www.ibge.gov.br/indicadores#variacao-do-pib'
 nome_banco = 'tabelas_ibge.db'
